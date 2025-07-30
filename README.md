@@ -82,19 +82,13 @@ If you use this system in your research, please cite:
   pages={XXX--XXX},
   doi={10.XXXX/XXXXXX}
 }
-profile
-Qwen3-235B-A22B-2507 12:08 am
-
-Absolutely! Let’s walk through the step-by-step creation of a professional, publication-ready GitHub repository for your IMU-based goat behavior monitoring system. This will serve as a reproducible, citable, and open-access companion to your Application Note — and greatly increase its impact. 
-
-We’ll structure it to meet scientific standards, support peer review, and help other researchers build, use, and cite your device. 
  
 🚀 Step 1: Create a GitHub Account (if you don’t have one) 
 
 Go to: https://github.com 
 Click Sign up and follow the steps. 
 
-    ✅ Tip: Use your institutional email for credibility. 
+✅ Tip: Use your institutional email for credibility. 
      
 
  
