@@ -82,8 +82,6 @@ If you use this system in your research, please cite:
   pages={XXX--XXX},
   doi={10.XXXX/XXXXXX}
 }
- 
-
 
  
  
