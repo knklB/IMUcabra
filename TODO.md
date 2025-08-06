@@ -6,7 +6,7 @@ This project is under development. The following tasks remain:
 - [ ] Add STL files for collar case
 - [ ] Generate system diagram
 - [ ] Finalize user guide
-- [ ] Submit to Zenodo for DOI
+- [x] Submit to Zenodo for DOI
 - [ ] Update README with citation
 
 Last updated: 2025-07-31
