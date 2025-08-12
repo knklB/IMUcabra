@@ -33,13 +33,21 @@ See [TODO.md](TODO.md) for current development status.
 
 ## 📂 Directory Structure
 IMUcabra/
+
 │
+
 ├── firmware/               # ESP32 Arduino code
+
 ├── hardware/               # Schematics, PCB, BOM
+
 ├── 3d-print/               # STL files for enclosure
+
 ├── software/               # Data logging scripts (Python)
+
 ├── figures/                # Diagrams, photos
+
 ├── documentation/          # User guide, calibration notes
+
 └── README.md
 
 ## 🛠️ How to Build the Device
