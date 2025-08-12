@@ -28,6 +28,7 @@ See [TODO.md](TODO.md) for current development status.
 
 📄**Published in**:  
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.1234567.svg)](https://doi.org/10.5281/zenodo.1234567)
+
 [aceptation pending]  DOI: [10.1016/j.compag.2024.XX.XXX]
 
 ## 📂 Directory Structure
