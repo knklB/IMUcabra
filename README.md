@@ -14,11 +14,11 @@ See [TODO.md](TODO.md) for current development status.
 
 🔧 **Key Features**:
 - 65 g total weight
-- 4 Hz sampling (configurable)
+- 20 Hz sampling (configurable)
 - ESP-NOW wireless (no LoRa gateway needed)
-- Solar charging support
-- Open-source firmware and 3D-printable housing
-- Synchronization with video via GPS timestamps
+- LiPo battery operated
+- Open-source firmware and unexpensive off-the-shelp plastic housing
+- Synchronization via GPS timestamps (requires video capture of ESP TFT screen)
 
 📦**Applications**:
 - Grazing, browsing, and rumination detection
@@ -65,9 +65,9 @@ IMUcabra/
 | Nylon Collar | Standard farm ID collar | Local supplier |
 
 ### 2. Assembly
-1. Solder components to a custom PCB or perfboard (see `hardware/schematic.pdf`).
+1. Solder JST connectors to an ESP32 and sensors (see `hardware/schematic.pdf`).
 2. Flash the firmware (see `firmware/`).
-3. Insert into 3D-printed case and attach to goat’s collar.
+3. Insert into case and attach to goat’s collar.
 
 ## 📡 Data Transmission
 
@@ -80,6 +80,8 @@ Uses **ESP-NOW** for peer-to-peer communication. No Wi-Fi network or internet re
 ## 📚 Citation
 
 If you use this system in your research, please cite:
+
+ ⚠️ **PENDING** 
 
 ```bibtex
 @article{Baro2024IMUcabra,
