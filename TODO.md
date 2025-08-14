@@ -2,9 +2,9 @@
 
 This project is under development. The following tasks remain:
 
-- [ ] Upload final version of `esp32_imu_logger.ino`
+- [x] Upload final version of `esp32_imu_logger.ino`
 - [ ] Add STL files for collar case
-- [ ] Generate system diagram
+- [x] Generate system diagram
 - [ ] Finalize user guide
 - [x] Submit to Zenodo for DOI
 - [ ] Update README with citation
